@@ -1,0 +1,53 @@
+<mxfile host="app.diagrams.net" modified="2024-07-03T14:56:55.160Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="lkr5ZKit5tn9armV-ojN" border="50" scale="3" compressed="false" locked="false" version="24.6.4" type="device">
+  <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
+    <mxGraphModel dx="1264" dy="451" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+      <root>
+        <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
+        <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
+        <object label="Chinput(chin input)" placeholders="1" subnet="" id="Gr0Zq-AI6Quabplr0KPa-98">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#EDF5FF;fontSize=15;strokeColor=none;container=1;verticalAlign=top;spacingBottom=0;spacingTop=4;fontStyle=1;fontColor=#7EA6E0;metaEdit=1;" parent="1" vertex="1">
+            <mxGeometry x="-576" y="218" width="409" height="311" as="geometry">
+              <mxRectangle x="-576" y="218" width="250" height="60" as="alternateBounds" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object label="" placeholders="1" id="Gr0Zq-AI6Quabplr0KPa-103">
+          <mxCell style="image;html=1;image=img/lib/clip_art/computers/Laptop_128x128.png;fontFamily=Helvetica;fontSize=12;fontColor=#0A3DA3;align=center;strokeWidth=2;fillColor=#EDF5FF;fontStyle=1;verticalAlign=bottom;strokeColor=none;labelBackgroundColor=#EDF5FF;labelBorderColor=none;labelPosition=center;verticalLabelPosition=top;" parent="Gr0Zq-AI6Quabplr0KPa-98" vertex="1">
+            <mxGeometry x="45" y="80" width="80" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="H8s_UCn39_uRIW-Yjlvo-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/fruit-136/64/Fruit_iconfree_Filled_Outline_raspberry-healthy-organic-food-fruit_icon-128.png;textShadow=1;" vertex="1" parent="Gr0Zq-AI6Quabplr0KPa-98">
+          <mxGeometry x="165" y="138" width="55" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="Gr0Zq-AI6Quabplr0KPa-100" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=none;endFill=0;strokeWidth=2;fontSize=12;fontColor=#0A3DA3;strokeColor=#0A3DA3;rounded=0;startSize=8;endSize=8;curved=0;" parent="Gr0Zq-AI6Quabplr0KPa-98" source="Gr0Zq-AI6Quabplr0KPa-103" target="H8s_UCn39_uRIW-Yjlvo-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="165" y="170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="85" y="170" />
+              <mxPoint x="179" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8s_UCn39_uRIW-Yjlvo-4" value="" style="image;html=1;image=img/lib/clip_art/general/Ships_Wheel_128x128.png" vertex="1" parent="Gr0Zq-AI6Quabplr0KPa-98">
+          <mxGeometry x="293" y="125.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H8s_UCn39_uRIW-Yjlvo-6" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=none;endFill=0;strokeWidth=2;fontSize=12;fontColor=#0A3DA3;strokeColor=#0A3DA3;rounded=0;startSize=8;endSize=8;curved=0;" edge="1" parent="Gr0Zq-AI6Quabplr0KPa-98" source="H8s_UCn39_uRIW-Yjlvo-3" target="H8s_UCn39_uRIW-Yjlvo-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="268" y="246" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="188" y="236" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H8s_UCn39_uRIW-Yjlvo-7" value="Raspberry Pi w/Qt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Gr0Zq-AI6Quabplr0KPa-98">
+          <mxGeometry x="156" y="200" width="79" height="36.5" as="geometry" />
+        </mxCell>
+        <mxCell id="H8s_UCn39_uRIW-Yjlvo-15" value="USB Input" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Gr0Zq-AI6Quabplr0KPa-98">
+          <mxGeometry x="37" y="176" width="79" height="36.5" as="geometry" />
+        </mxCell>
+        <mxCell id="H8s_UCn39_uRIW-Yjlvo-16" value="Input wheel + button(s)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Gr0Zq-AI6Quabplr0KPa-98">
+          <mxGeometry x="293.5" y="210" width="79" height="36.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
